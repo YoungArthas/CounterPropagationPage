@@ -27,7 +27,7 @@ const Commanders = () =>{
     ]
     return(
         <div className={'container'}>
-            <h1 id={'commanding'} style={{color:'white', textAlign:'center', padding:'20px 0'}}>Командування інституту</h1>
+            <h1 id={'commanding'} style={{color:'white', textAlign:'center', padding:'20px 0'}}>Командування</h1>
         <CommandersContainer>
             {peoples.map((people, index)=>(
                 <Commander data={people} key={index}></Commander>

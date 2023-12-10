@@ -7,12 +7,13 @@ const Header = () =>{
         <HeaderContainer>
             <div className={'logo'}>
                 <img src={logo} alt="1"/>
-                <h1>Військовий інститут <br/>телекомунікації та інформатизації</h1>
+                <h1>Інформаційний портал <br/>контрпропаганди</h1>
             </div>
             <div className={'links'}>
                 <ul id={'main'}>
                     <li><Link to={'main'} smooth={true} offset={-200} duration={1000}>Головна</Link></li>
-                    <li><Link to={'commanding'} smooth={true} offset={0} duration={1000}>Командування інституту</Link></li>
+                    <li><Link to={'commanding'} smooth={true} offset={0} duration={1000}>Командування</Link></li>
+                    <li><Link to={'tasks'} smooth={true} offset={0} duration={1000}>Завдання</Link></li>
                     <li><Link to={'about'} smooth={true} offset={-30} duration={1000}>Про нас</Link></li>
                     <li><Link to={'contacts'} smooth={true} offset={-20} duration={1000}>Контакти</Link></li>
                 </ul>

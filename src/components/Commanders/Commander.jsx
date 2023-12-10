@@ -10,7 +10,7 @@ const Commander = ({data}) =>{
                 <p className={'position'}>{data.position}</p>
                 <p className={'desc'}>{data.description}</p>
                 <div style={{display:'flex', justifyContent:'center'}}>
-                <button>Його роботи</button>
+                <button>Нагороди</button>
                 </div>
             </div>
         </CommanderCard>

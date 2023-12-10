@@ -5,6 +5,7 @@ import svg from '../../images/video-gradient-mask.svg'
 import Commanders from "../Commanders/Commanders";
 import About from "../About/About";
 import Contacts from "../Contacts/Contacts";
+import Tasks from "../Tasks/Tasks";
 
 const Main = () => {
     return(
@@ -16,6 +17,7 @@ const Main = () => {
             <ReactSVG src={svg} className="overlay-svg"/>
             <div className="overlay-text">Відтвори своє майбутнє в надійному захисті держави!</div>
         </MainContainer>
+            <Tasks/>
             <Commanders/>
             <About/>
             <Contacts/>
