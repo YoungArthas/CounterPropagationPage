@@ -9,7 +9,7 @@ const containerStyle = {
 
 const center = {
     lat:50.42795680029026,
-    lng:30.540345940486677
+    lng:30.540345940486677  
 };
 const Contacts = () => {
     const { isLoaded } = useJsApiLoader({

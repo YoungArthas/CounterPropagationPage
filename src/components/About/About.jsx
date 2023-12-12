@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import photo from '../../images/persons/DALL·E 2023-11-16 11.32.05 - Wide-format, realistic style image of a Ukrainian soldier using a radio station while holding a weapon. The soldier is in a field setting, wearing a c.png'
 import UncontrolledExample from "./UncontrolledExample";
 const About = () => {
     return(

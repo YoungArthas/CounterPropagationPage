@@ -1,8 +1,8 @@
-import image1 from '../../images/persons/DALL·E 2023-11-16 11.32.05 - Wide-format, realistic style image of a Ukrainian soldier using a radio station while holding a weapon. The soldier is in a field setting, wearing a c.png'
-import image2 from '../../images/persons/DALL·E 2023-11-16 11.39.14 - Wide-format, realistic image of a Ukrainian soldier in a dynamic combat scene, depicting a firefight. The soldier, wearing a contemporary Ukrainian mi.png'
-import image3 from '../../images/persons/DALL·E 2023-11-16 11.39.27 - Wide-format, realistic image of a Ukrainian soldier in a dynamic combat scene, depicting a firefight. The soldier, wearing a contemporary Ukrainian mi.png'
-import image4 from '../../images/persons/DALL·E 2023-11-16 11.40.37 - Wide-format, realistic image of a Ukrainian soldier in a diplomatic setting, possibly during a moment of negotiation or agreement. The scene shows the.png'
-import image5 from '../../images/persons/DALL·E 2023-11-16 11.40.44 - Wide-format, realistic image of a Ukrainian soldier in a diplomatic setting, possibly during a moment of negotiation or agreement. The scene shows the.png'
+import image1 from '../../images/persons/dale1.png'
+import image2 from '../../images/persons/dale2.png'
+import image3 from '../../images/persons/dale3.png'
+import image4 from '../../images/persons/dale4.png'
+import image5 from '../../images/persons/dale5.png'
 import {Carousel} from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
